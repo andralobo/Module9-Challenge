@@ -11,6 +11,7 @@ Below are the results for temperatures in June and December
 <img src="https://github.com/andralobo/Module9-Challenge/blob/main/resources/C1.png?raw=true">
 <img src="https://github.com/andralobo/Module9-Challenge/blob/main/resources/C2.png?raw=true">
 We can see that the following:
+
 - The Average temperature is almost 4 degrees higher in June
 - The minimum temperature is 8 degrees higher in June
 - The maximum temperature is only 2 degrees higher in June
@@ -19,6 +20,7 @@ The charts below shows the average temperature for the month of June and Decembe
 
 <img src="https://github.com/andralobo/Module9-Challenge/blob/main/resources/B1.png?raw=true">
 <img src="https://github.com/andralobo/Module9-Challenge/blob/main/resources/B2.png?raw=true">
+
 - 2017 hd the highest average temperature in June 
 - 2014 had the highest average temperature in December
  
