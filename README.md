@@ -9,7 +9,7 @@ We have been given data from 2011-2017 broken down by day to include the tempera
 Below are the results for temperatures in June and December
 
 <img src="https://github.com/andralobo/Module9-Challenge/blob/main/resources/C1.png?raw=true">
-<img src="https://github.com/andralobo/Module9-Challenge/blob/main/Analysis/resources/C2.png?raw=true">
+<img src="https://github.com/andralobo/Module9-Challenge/blob/main/resources/C2.png?raw=true">
 We can see that the following:
 - The Average temperature is almost 4 degrees higher in June
 - The minimum temperature is 8 degrees higher in June
@@ -17,14 +17,14 @@ We can see that the following:
 
 The charts below shows the average temperature for the month of June and December by year:
 
-<img src="https://github.com/andralobo/Module9-Challenge/blob/main/Analysis/resources/B1.png?raw=true">
-<img src="https://github.com/andralobo/Module9-Challenge/blob/main/Analysis/resources/B2.png?raw=true">
+<img src="https://github.com/andralobo/Module9-Challenge/blob/main/resources/B1.png?raw=true">
+<img src="https://github.com/andralobo/Module9-Challenge/blob/main/resources/B2.png?raw=true">
 - 2017 hd the highest average temperature in June 
 - 2014 had the highest average temperature in December
  
 The chart below shows the average temperatures for all the months:
 
-<img src="https://github.com/andralobo/Module9-Challenge/blob/main/Analysis/resources/B3.png?raw=true">
+<img src="https://github.com/andralobo/Module9-Challenge/blob/main/resources/B3.png?raw=true">
 
 - May, July, August and September have the highest average temperatures
 - January and Feburary have the lowest average temperatures.
