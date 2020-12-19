@@ -21,7 +21,7 @@ The charts below shows the average temperature for the month of June and Decembe
 <img src="https://github.com/andralobo/Module9-Challenge/blob/main/resources/B1.png?raw=true">
 <img src="https://github.com/andralobo/Module9-Challenge/blob/main/resources/B2.png?raw=true">
 
-- 2017 hd the highest average temperature in June 
+- 2017 had the highest average temperature in June 
 - 2014 had the highest average temperature in December
  
 The chart below shows the average temperatures for all the months:
