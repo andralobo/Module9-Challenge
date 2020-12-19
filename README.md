@@ -8,7 +8,7 @@ We have been given data from 2011-2017 broken down by day to include the tempera
 ## Surfs Up Analysis Results
 Below are the results for temperatures in June and December
 
-<img src="https://github.com/andralobo/Module9-Challenge/blob/main/Analysis/resources/C1.png?raw=true">
+<img src="https://github.com/andralobo/Module9-Challenge/blob/main/resources/C1.png?raw=true">
 <img src="https://github.com/andralobo/Module9-Challenge/blob/main/Analysis/resources/C2.png?raw=true">
 We can see that the following:
 - The Average temperature is almost 4 degrees higher in June
